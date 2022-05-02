@@ -1,6 +1,8 @@
 body {
     background-color: white;
     margin: 0%;
+    width: 100%;
+    height: 100%;
 }
 
 .nameRectangle {
@@ -22,6 +24,7 @@ body {
     padding: 50px;
     text-decoration: none;
     margin: 0px;
+    width: 100%
 }
 
 .des a {
@@ -38,7 +41,7 @@ body {
 
 .leftRectangle {
     float: left;
-    background-color: #263547;
+    background-color: #333333;
     width: 250px;
     height: 2500px;
     border: 1px solid #263547;
